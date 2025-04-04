@@ -56,7 +56,7 @@ python server.py
 python client.py
 ```
 ✅ **客户端界面如下：**  
-![客户端界面](https://via.placeholder.com/400x300?text=Chat+Client+UI)  
+![客户端界面]([https://via.placeholder.com/400x300?text=Chat+Client+UI](https://pic.616pic.com/ys_img/00/09/68/aYu8gILa1k.jpg))  
 
 ### **3. 连接服务器**  
 - **服务器地址**：输入服务端的局域网 IP（如 `192.168.1.100`）  
