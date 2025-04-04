@@ -57,7 +57,7 @@ python client.py
 ```  
 
 ✅ **The client interface looks like this:**  
-![Client Interface](https://via.placeholder.com/400x300?text=Chat+Client+UI)  
+![Client Interface]([https://via.placeholder.com/400x300?text=Chat+Client+UI](https://pic.616pic.com/ys_img/00/09/68/aYu8gILa1k.jpg))  
 
 ### **3. Connect to the Server**  
 - **Server Address**: Enter the LAN IP of the server (e.g., `192.168.1.100`)  
